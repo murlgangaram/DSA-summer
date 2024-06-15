@@ -21,7 +21,7 @@ void visualize(StackArrayList s);
 bool isEmpty(StackArrayList s);
 bool isFull(StackArrayList s); 
 StackArrayList EvenNumbers(StackArrayList *s);
-initStack(&evenStack);
+
 
 
 #endif
