@@ -3,7 +3,7 @@
 NodePtr initialize(Product item) {
     NodePtr newNode = (NodePtr)malloc(sizeof(NodeType));
     if (newNode == NULL) {
-        fprintf(stderr, "Memory allocation failed!\n");
+
         return NULL;
     }
   
